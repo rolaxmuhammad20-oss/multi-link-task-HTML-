@@ -1,2 +1,1 @@
-# multi-link-task-HTML-
-task of linking multiple pages with link
+D:\SMIT\HTML\firtsClass\class.html\index.html
